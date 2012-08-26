@@ -1,4 +1,4 @@
 philosophy
 ==========
 
-programming language of the soul
+Coming soon...
